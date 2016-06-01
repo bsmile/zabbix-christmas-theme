@@ -390,7 +390,8 @@ footer, .footer {
   margin: 0 auto;
   margin-bottom: 10px;
   background: url(../img/icon-sprite.svg) no-repeat 0 -712px;
-  background-size: 94px; }
+  background-size: 94px;
+  float: left; }
 
 .list-table {
   width: 100%;
